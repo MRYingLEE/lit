@@ -20,3 +20,4 @@ jupyterlab-cell-flash
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 plotly>=5,<7
+lckr_jupyterlab_variableinspector
